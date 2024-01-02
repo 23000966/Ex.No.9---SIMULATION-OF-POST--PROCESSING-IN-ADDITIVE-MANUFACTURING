@@ -49,8 +49,8 @@
 ![image](https://github.com/23000966/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153983364/47cf7f00-8388-40f2-ab3e-9838ed1be861)
 ![image](https://github.com/23000966/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153983364/07e81bd2-4e3a-484d-9d8e-7727bf9f95d4)
 
-### Name: SANTHOSH KUMAR R
-### Register Number: 23000966
+### Name: DILIP SANJAY M
+### Register Number: 23014243
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
